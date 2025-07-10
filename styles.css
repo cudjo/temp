@@ -8,7 +8,8 @@ body.user-roleid-1 {
     #header > div.crt-v1-header-site__r-site > div:nth-child(1),
     #main_content > div > div > div > div.nn-main__item-service.nn-main_shadow.nn-container.nn-container-complex-pax.mb-30,
     #header-left-info > div,
-    #header_management_buttons > div > button.btn.btn-outline-dark.mngmt-button-rework
+    #header_management_buttons > div > button.btn.btn-outline-dark.mngmt-button-rework,
+    #prebooking-step-paxSelector > div > div.commands.profile-paxes-info-container > div.profile-paxes-info > div > div > div.commands-book__inner > div.commands-book__right > div.commands-book__person > div > div:nth-child(3)
     {
         display: none
     }
