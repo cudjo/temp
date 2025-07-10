@@ -1,6 +1,4 @@
 body.user-roleid-1 {
-    /* Шрифт */
-    font-family: 'Beeline Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
     /* лишние элементы интерфейса */
     div.portlet__content.collapse.show > div > div > div.col-4.pax-selector-card.pax-selector-card--app-person,
     #complex-reserve-codes-link,
@@ -9,9 +7,14 @@ body.user-roleid-1 {
     #main_content > div > div > div > div.nn-main__item-service.nn-main_shadow.nn-container.nn-container-complex-pax.mb-30,
     #header-left-info > div,
     #header_management_buttons > div > button.btn.btn-outline-dark.mngmt-button-rework,
-    #prebooking-step-paxSelector > div > div.commands.profile-paxes-info-container > div.profile-paxes-info > div > div > div.commands-book__inner > div.commands-book__right > div.commands-book__person > div > div:nth-child(3)
+    #prebooking-step-paxSelector > div > div.commands.profile-paxes-info-container > div.profile-paxes-info > div > div > div.commands-book__inner > div.commands-book__right > div.commands-book__person > div > div:nth-child(3),
+    #header > div.crt-v1-header-site__r-site > div:nth-child(3) > div > div.cursor-pointer.crt-v1-icon-down16.crt-v1-icon--size-24.crt-v1-icon--bg-gray.ml-16.rotate-180 > div > div.crt-v1-header-site__dropdown-header.crt-v1-header-site__dropdown-header--right.p-0 > div > a:nth-child(4),
+    #badges-profile > div.badge.badge-service-fastest,
+    #prebooking-step-paxSelector > div > div.commands.profile-paxes-info-container > div.commands__add.commands__add--additional-person,
+    #prebooking-step-paxSelector > div > div.commands.profile-paxes-info-container > div.profile-paxes-info > div > div > div.commands-book__inner > div.commands-book__right > div.commands-book__person > div > div:nth-child(3),
+    #rail-index > div > div.b-simple-info-footer.js-alert-information-mobility,
+    #rail-variants > div.b-simple-info-footer.js-alert-information-mobility
     {
         display: none
     }
-
 }
