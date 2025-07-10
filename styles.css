@@ -1,0 +1,16 @@
+body.user-roleid-1 {
+    /* Шрифт */
+    font-family: 'Beeline Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+    /* лишние элементы интерфейса */
+    div.portlet__content.collapse.show > div > div > div.col-4.pax-selector-card.pax-selector-card--app-person,
+    #complex-reserve-codes-link,
+    #drafts_nav_container > div,
+    #header > div.crt-v1-header-site__r-site > div:nth-child(1),
+    #main_content > div > div > div > div.nn-main__item-service.nn-main_shadow.nn-container.nn-container-complex-pax.mb-30,
+    #header-left-info > div,
+    #header_management_buttons > div > button.btn.btn-outline-dark.mngmt-button-rework
+    {
+        display: none
+    }
+
+}
