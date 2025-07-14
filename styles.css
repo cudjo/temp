@@ -17,4 +17,9 @@ body.user-roleid-1 {
     {
         display: none
     }
+    .approval-warn__message
+    {
+        color: red;
+        font-weight: 900 !important;
+    }
 }
